@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 64e728e0-0179-1042-61c4-67d8906d11bf
 title: History and Development of the Course
 uid: 1ae5301e-7c2d-267a-4263-f163e997119a
@@ -9,7 +12,7 @@ uid: 1ae5301e-7c2d-267a-4263-f163e997119a
 
 _In this section, Susan Murcott describes the history of_ EC.719 D-Lab: Water, Climate Change, and Health_, how it was first conceived, and how it has developed over the years_.
 
-After having taught for over 20 years, with an emphasis in water, sanitation, and development, I wanted to do something different. I had done my undergraduate and graduate studies here at MIT in environmental engineering, so I had been exposed to the subject of climate change since the 1980s. I'm not a climate scientist, and I wasn't specifically working in that field, but I felt sufficiently passionate about it as a crucial issue for the 21st century that I wanted to teach a course in climate change, which D-Lab wasn't offering at the time. I thought that the best way to do that was to co-teach it with someone who was a climate scientist, and specifically to focus on water in climate change.
+After having taught for over 20 years, with an emphasis in water, sanitation, and development, I wanted to do something different. I had done my undergraduate and graduate studies here at MIT in environmental engineering, so I had been exposed to the subject of climate change since the 1980s. I'm not a climate scientist, and I wasn't specifically working in that field, but I felt sufficiently passionate about it as a crucial issue for the 21{{< sup "st" >}} century that I wanted to teach a course in climate change, which D-Lab wasn't offering at the time. I thought that the best way to do that was to co-teach it with someone who was a climate scientist, and specifically to focus on water in climate change.
 
 {{< quote "Everybody cares about health—their own and that of their family, their neighborhood, their country, and hopefully also the planet." "— Susan Murcott" >}}
 

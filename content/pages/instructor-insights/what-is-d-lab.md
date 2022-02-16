@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 64e728e0-0179-1042-61c4-67d8906d11bf
 title: What is D-Lab?
 uid: da4b3356-07cc-777e-b267-a58ed3a4a5f8
