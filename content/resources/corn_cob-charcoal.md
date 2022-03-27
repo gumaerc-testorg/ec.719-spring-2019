@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: What is D-Lab?
 parent_type: CourseSection
+parent_uid: da4b3356-07cc-777e-b267-a58ed3a4a5f8
 resourcetype: Image
 title: corn_cob-charcoal.jpg
 uid: bea5bbaf-006e-20c2-7892-d21afe3d076c

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Students as Teachers
 parent_type: CourseSection
+parent_uid: 40e1d48c-7e1d-3891-2dc5-a3fb01a39325
 resourcetype: Image
 title: chalkboard.jpg
 uid: 9a13ccf9-aec9-7c36-767a-8bf6c74c0e52

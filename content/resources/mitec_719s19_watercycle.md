@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 23d843c9-3ebf-447e-36b7-d5d5f562bc61
 resourcetype: Image
 title: MITEC_719S19_watercycle.jpg
 uid: cb4bc4f1-539e-1f47-c275-c30929d8caa2
