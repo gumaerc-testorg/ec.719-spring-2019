@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'In this section, Susan Murcott reflects on how EC.719 D-Lab: Water,
+  Climate Change, and Health is structured to give students a role in teaching, and
+  what practical strategies have proved most successful in implementing that portion
+  of the course.     '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +16,7 @@ uid: 40e1d48c-7e1d-3891-2dc5-a3fb01a39325
 
 _In this section, Susan Murcott reflects on how_ EC.719 D-Lab: Water, Climate Change, and Health _is structured to give students a role in teaching, and what practical strategies have proved most successful in implementing that portion of the course_.
 
-![A corner of a chalkboard.]({{< resource_file 4c678159-5c84-08ec-fd8f-9e1affc87319 >}})
+{{< resource 4c678159-5c84-08ec-fd8f-9e1affc87319 >}}
 
 Students were involved in teaching the course. (Image courtesy of [travel2write4u](https://www.flickr.com/photos/travel2write4u/6874191777/in/photolist-bts2HT-9KyngH-c5V317-97jjTJ-dcCVEJ-9rKeez-2p1YJk-aLE5bX-a7KyWN-fkFSk7-ed74Hw-cZ7JVm-8kLhWe-daz6dW-4BLAbv-6V57Tk-6dxojv-9wuro-7sLttn-cZ7Dau-7ZvNx7-9YbV1f-51L4hz-LW5cW-chtYfj-3vxvDR-6dbBcX-7QWnE2-6vSNKU-XnRZSd-f2ZGd-4QPrV1-wUpja-9Jn5mg-4PwzC5-ahDbMf-bB6XrD-4Pwyam-2JoTm-LC1oLe-jiCc7p-37A4yi-79ct9C-EnN9DG-aeHAzG-798Bzt-owQWih-4puHfc-owS9pX-6Vt9ng) on Flickr. License: BY-NC-SA.)
 

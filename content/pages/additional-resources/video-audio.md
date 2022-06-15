@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Video and audio resources for D-Lab: Water, Climate Change, and Health.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Additional Resources

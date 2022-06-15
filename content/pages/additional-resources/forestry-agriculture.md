@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Additional resources about forestry and agriculture.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Additional Resources

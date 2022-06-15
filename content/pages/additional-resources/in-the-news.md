@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: News articles from previous years.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Additional Resources

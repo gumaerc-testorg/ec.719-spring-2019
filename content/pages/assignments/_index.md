@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Descriptions of assignments for D-Lab: Water, Climate Change, and Health.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -119,4 +120,4 @@ Assuming you did have full funding for this project, how would you allocate the 
 Term Project
 ------------
 
-Household to global scale term projects on water, climate change and health solutions will be developed in teams or individually. You and your team decide on the format—a model, a video, a website, an app, a proposal, an artistic expression, a research paper, a competition entry. This can take any form. Each person or team will receive close mentoring as projects evolve. Every class project will have three deliverables, one per month of the term. There will be opportunities to present your term projects and get feedback from the class and/or mentors in varying stages of project evolution. Examples of [student projects from this semester]({{< baseurl >}}/pages/assignments/projects) are available.
+Household to global scale term projects on water, climate change and health solutions will be developed in teams or individually. You and your team decide on the format—a model, a video, a website, an app, a proposal, an artistic expression, a research paper, a competition entry. This can take any form. Each person or team will receive close mentoring as projects evolve. Every class project will have three deliverables, one per month of the term. There will be opportunities to present your term projects and get feedback from the class and/or mentors in varying stages of project evolution. Examples of {{% resource_link 23d843c9-3ebf-447e-36b7-d5d5f562bc61 "student projects from this semester" %}} are available.

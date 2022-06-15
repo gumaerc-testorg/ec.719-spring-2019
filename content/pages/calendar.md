@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Calendar including topics and key dates for D-Lab: Water, Climate Change,
+  and Health. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
