@@ -4,6 +4,7 @@ description: ''
 file: /courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/d239bccb9e8f4125d1a7d4d6e020ba29_MITEC-719S19-GNSS.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Water & Oceans
 parent_type: CourseSection

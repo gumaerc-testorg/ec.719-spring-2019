@@ -5,6 +5,7 @@ file: /courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/26f9d6ca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
