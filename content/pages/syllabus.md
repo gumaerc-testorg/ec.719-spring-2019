@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'The syllabus for D-Lab: Water, Climate Change, and Health contains the
+  course description, course highlights, and learning objectives.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4849ebeb-09e7-de83-f30f-5d3c5cdf2cec
 ---
@@ -131,4 +135,4 @@ The D-Lab Showcase will feature all the spring term D-Lab class projects. Mark y
 
 ### Extra Credit
 
-Students will receive a feedback on their second and third deliverables (see [Calendar]({{< baseurl >}}/pages/calendar)). After receiving their third deliverable feedback, students will have an opportunity for students to further develop their work for extra credit and hand it in one final time. There is no final exam in this course.
+Students will receive a feedback on their second and third deliverables (see {{% resource_link d936bcba-5b2b-6c50-7ea9-9b8e9207a3bc "Calendar" %}}). After receiving their third deliverable feedback, students will have an opportunity for students to further develop their work for extra credit and hand it in one final time. There is no final exam in this course.

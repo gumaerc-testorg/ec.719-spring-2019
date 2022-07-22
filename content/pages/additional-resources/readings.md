@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Additional Resources
+parent_type: CourseSection
 parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: Readings
 uid: 62d08d4d-9076-9bd4-7266-fe63ba1557f6
@@ -25,7 +29,7 @@ Whitmee, et al. "[Safeguarding Human Health in the Anthropocene Epoch: Report o
 
 Lobdell, David and Sharon Gourdji. "[The Influence of Climate Change on Global Crop Productivity.](http://www.plantphysiol.org/content/160/4/1686)" _Plant Physiology_ 160, no. 4 (2012): 1686–1697.
 
-Strauss, William and Laurenz Schmidt. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[A Look at the Details of CO2 Emissions From Burning Wood vs. Coal (PDF).](https://futuremetrics.info/wp-content/uploads/2013/07/CO2-from-Wood-and-Coal-Combustion.pdf)" FutureMetric. January 2012.
+Strauss, William and Laurenz Schmidt. "[A Look at the Details of CO2 Emissions From Burning Wood vs. Coal (PDF).](https://futuremetrics.info/wp-content/uploads/2013/07/CO2-from-Wood-and-Coal-Combustion.pdf)" FutureMetric. January 2012.
 
 Economic Commission for Europe International Network of Basin Organizations. "[Water and Climate Change Adaptation in Transboundary Basins: Lessons Learned and Good Practices.](http://www.unece.org/index.php?id=39417)" UNECE. 2015.
 

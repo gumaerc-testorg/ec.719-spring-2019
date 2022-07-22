@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: 'Additional resources for D-Lab: Water, Climate Change, and Health.'
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Additional Resources
+parent_type: CourseSection
 parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: Other
 uid: d9e9c320-906f-49c1-b2fb-1eb03c76ccdc

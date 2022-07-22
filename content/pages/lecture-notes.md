@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'Lecture slides for some of some of the classes in D-Lab: Water, Climate
+  Change, and Health. '
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 57b97a81-f4a6-3758-0cd6-a134df9061a9
 ---
@@ -40,7 +45,7 @@ Introduction & Weather Story
 {{< tdopen >}}
 
 
-[Class Intros and Your Weather Story (PDF - 2.5MB)]({{< baseurl >}}/resources/mitec_719s19_lec1)
+{{% resource_link 63b2fd31-9108-0df3-8fe3-79d388226963 "Class Intros and Your Weather Story (PDF - 2.5MB)" %}}
 
 
 {{< tdclose >}}
@@ -64,7 +69,7 @@ Water, Climate Change, & Health Introduction
 {{< tdopen >}}
 
 
-[What Makes a Planet Habitable? Planetary Boundaries (PDF - 2.1MB)]({{< baseurl >}}/resources/mitec_719s19_lec2)
+{{% resource_link 26f9d6ca-20f7-9339-8740-5db464ef013b "What Makes a Planet Habitable? Planetary Boundaries (PDF - 2.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -88,7 +93,7 @@ Climate 1
 {{< tdopen >}}
 
 
-[Earth's Climate History (PDF - 2.8MB)]({{< baseurl >}}/resources/mitec_719s19_lec3)
+{{% resource_link 8e30e236-fd88-fef1-cafb-f780d2d0f2ec "Earth's Climate History (PDF - 2.8MB)" %}}
 
 
 {{< tdclose >}}
@@ -112,7 +117,7 @@ Climate 2
 {{< tdopen >}}
 
 
-[10,000 Years Ago to Present (PDF - 2.4MB)]({{< baseurl >}}/resources/mitec_719s19_lec4)
+{{% resource_link da5b16a8-ff17-ff98-b1f8-5455e084aa44 "10,000 Years Ago to Present (PDF - 2.4MB)" %}}
 
 
 {{< tdclose >}}
@@ -136,7 +141,7 @@ Climate 3
 {{< tdopen >}}
 
 
-[Atmospheric and Oceanic General Circulation Models (PDF - 1.5MB)]({{< baseurl >}}/resources/mitec_719s19_lec5)
+{{% resource_link fd0ec78d-5135-5bc0-19bc-18007098da9f "Atmospheric and Oceanic General Circulation Models (PDF - 1.5MB)" %}}
 
 Guest Lecture: Kasturi Shah, MIT Graduate Student
 
@@ -186,7 +191,7 @@ Water & Climate Change
 {{< tdopen >}}
 
 
-[Climate Change, Human, and Planetary Health Through the Lens of Water (PDF - 6.2MB)]({{< baseurl >}}/resources/mitec_719s19_lec7)
+{{% resource_link 10939816-b6f3-3c74-7464-6f98f74755ca "Climate Change, Human, and Planetary Health Through the Lens of Water (PDF - 6.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -234,7 +239,7 @@ One Health
 {{< tdopen >}}
 
 
-[One Health (PDF - 2.1MB)]({{< baseurl >}}/resources/mitec_719s19_lec9)
+{{% resource_link 6b77b056-c805-9d0b-5a5b-003c99be3d75 "One Health (PDF - 2.1MB)" %}}
 
 Guest Lecture: [Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University](http://vetprofiles.tufts.edu/faculty/janetrix-hellen-amuguni)
 

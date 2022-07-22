@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: Additional resources about health.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Additional Resources
+parent_type: CourseSection
 parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: Health
 uid: f8c16e55-96ce-1c5b-2d29-b1b554f00fc0

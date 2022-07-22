@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: Additional resources about New England specific topics.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Additional Resources
+parent_type: CourseSection
 parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: New England
 uid: 91304eae-999c-bb46-6078-2e2ba5c836e9
@@ -23,7 +27,7 @@ Murcott, Susan. "[D-Lab and MIT IDEAS Global Challenge: Lessons in Mentoring, Tr
 Student Projects
 ----------------
 
-Example Dream Project Summary: [Protecting Rapid Transit Infrastructure from Extreme Precipitation Events (PDF)]({{< baseurl >}}/resources/mitec_719s19_dream)
+Example Dream Project Summary: {{% resource_link 4b70cfd2-4cab-b5ee-fac2-df46137afb11 "Protecting Rapid Transit Infrastructure from Extreme Precipitation Events (PDF)" %}}
 
 Websites
 --------

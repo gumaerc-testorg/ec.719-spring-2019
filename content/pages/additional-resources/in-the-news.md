@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: News articles from previous years.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Additional Resources
+parent_type: CourseSection
 parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: In the News
 uid: 16e1cb0d-cd16-6b8d-7062-514796030100

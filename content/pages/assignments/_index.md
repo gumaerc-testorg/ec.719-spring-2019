@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Descriptions of assignments for D-Lab: Water, Climate Change, and Health.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: faa1c3a2-4b8a-65fd-1e0f-bef61250e637
 ---
@@ -88,9 +92,9 @@ Sketch out the main steps in a timeline or Gantt chart. What will you do in the 
 Consider breaking the timeline into two parts:
 
 *   **Part 1 Spring Term:** The first part details Spring Term milestones. In simplest form, it should break Spring Term into your deliverables.
-    *   1st deliverable (Week 5)
-    *   2nd deliverable (Week 7)
-    *   3rd deliverable (Week 11)
+    *   1{{< sup "st" >}} deliverable (Week 5)
+    *   2{{< sup "nd" >}} deliverable (Week 7)
+    *   3{{< sup "rd" >}} deliverable (Week 11)
     *   Final project (Week 14)
 *   **Part 2:** If you anticipate that your Dream Project may continue beyond the Spring Term, please provide milestones for the next 6 to 12 months.
 
@@ -116,4 +120,4 @@ Assuming you did have full funding for this project, how would you allocate the 
 Term Project
 ------------
 
-Household to global scale term projects on water, climate change and health solutions will be developed in teams or individually. You and your team decide on the format—a model, a video, a website, an app, a proposal, an artistic expression, a research paper, a competition entry. This can take any form. Each person or team will receive close mentoring as projects evolve. Every class project will have three deliverables, one per month of the term. There will be opportunities to present your term projects and get feedback from the class and/or mentors in varying stages of project evolution. Examples of [student projects from this semester]({{< baseurl >}}/pages/assignments/projects) are available.
+Household to global scale term projects on water, climate change and health solutions will be developed in teams or individually. You and your team decide on the format—a model, a video, a website, an app, a proposal, an artistic expression, a research paper, a competition entry. This can take any form. Each person or team will receive close mentoring as projects evolve. Every class project will have three deliverables, one per month of the term. There will be opportunities to present your term projects and get feedback from the class and/or mentors in varying stages of project evolution. Examples of {{% resource_link 23d843c9-3ebf-447e-36b7-d5d5f562bc61 "student projects from this semester" %}} are available.

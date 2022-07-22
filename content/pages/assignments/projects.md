@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'Examples of student final projects for D-Lab: Water, Climate Change,
+  and Health. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: faa1c3a2-4b8a-65fd-1e0f-bef61250e637
 title: Projects
 uid: 23d843c9-3ebf-447e-36b7-d5d5f562bc61
@@ -10,12 +16,12 @@ Students were required to complete a term project on water, climate change, and 
 
 At the end of the course, the D-Lab Showcase featured all the spring term D-Lab class projects. This was an opportunity to present the “final” version of the term projects. Course instructors and peers provided feedback on student work.
 
-This page contains a sampling of some of the student projects completed during the Spring 2019 version of this course. [Past student projects]({{< baseurl >}}/pages/additional-resources/student-projects) are also available. 
+This page contains a sampling of some of the student projects completed during the Spring 2019 version of this course. {{% resource_link 239732a6-7608-30c3-05dc-abfb991a111b "Past student projects" %}} are also available. 
 
 1001 Stories
 ------------
 
-![Text saying 1001 stories, where the 0s are part of a bicycle.]({{< resource_file 74c8df24-eb13-d287-b429-e25a07e66ce4 >}})
+{{< resource 74c8df24-eb13-d287-b429-e25a07e66ce4 >}}
 
 Devi Lockwood spent four years before coming to MIT recording audio stories about water and climate change. Her goal is to collect 1,001 total stories; currently, she has 850+ stories recorded from six of the seven continents. As a current student in the [MIT Graduate Program in Science Writing](http://sciwrite.mit.edu/), she took D-Lab: Water, Climate Change, and Health as an elective credit.
 
@@ -30,7 +36,7 @@ This rainwater simulator demonstrates the effect of impervious surfaces versus g
 
 The simulator was designed for pop-up exhibits for an organization designing green spaces for underserved communities in the greater Boston area. 
 
-![Water cycle diorama (left) and accompanying poster (right)]({{< resource_file b98372fd-3a8a-4619-648d-94c480e2fec8 >}})
+{{< resource b98372fd-3a8a-4619-648d-94c480e2fec8 >}}
 
 Demonstration of the simulator presented at the D-Lab Showcase (left) and accompanying poster (right).
 

@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: Additional resources about water and oceans.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Additional Resources
+parent_type: CourseSection
 parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: Water & Oceans
 uid: 52d1eed2-91cd-c1b5-e878-892dfd6b1e1d
@@ -41,7 +45,7 @@ Documentary originally created as the Term Project in MIT "D-Lab Water and Clima
 
 ["Local Water" short version (14:35 min) of "In an Oyster Nutshell."](https://youtu.be/4evJROh4wUk) 
 
-[A Very-Low-Cost GNSS Precipitable Water Vapour Sensor (PDF)]({{< baseurl >}}/resources/mitec-719s19-gnss). The goal of the project is to develop a very-low-cost system for the measurement of precipitable water vapour from GNSS data utilizing inexpensive, off-the-shelf, commercially available components. Term project final report. 
+{{% resource_link d239bccb-9e8f-4125-d1a7-d4d6e020ba29 "A Very-Low-Cost GNSS Precipitable Water Vapour Sensor (PDF)" %}}. The goal of the project is to develop a very-low-cost system for the measurement of precipitable water vapour from GNSS data utilizing inexpensive, off-the-shelf, commercially available components. Term project final report. 
 
 Video & Audio
 -------------

@@ -1,16 +1,16 @@
 ---
 content_type: page
-parent_title: Readings
+description: 'Additional optional readings for D-Lab: Water, Climate Change, and Health.'
+draft: false
 parent_uid: 9cc6a4e6-78b7-bd33-de2e-724464018b95
 title: Additional Readings
 uid: f14ac857-fb37-82ec-0d52-77f42795ea1d
 ---
+Intergovernmental Panel on Climate Change (IPCC). [_Climate Change 2013: The Physical Science Basis_](https://www.ipcc.ch/report/ar5/wg1/). Working Group, I: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG1-AR5)
 
-[news.mit.edu/2014/climate-scientist-james-hansen-visits-mit](https://news.mit.edu/2014/climate-scientist-james-hansen-visits-mit)Intergovernmental Panel on Climate Change (IPCC). _[Climate Change 2013: The Physical Science Basis](https://www.ipcc.ch/report/ar5/wg1/)_. Working Group, I: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG1-AR5)
+Intergovernmental Panel on Climate Change (IPCC). [_Climate Change 2014: Impacts, Adaptation and Vulnerability. Part A: Global and Sectoral Aspects_](https://www.ipcc.ch/report/ar5/wg2/)_._ Working Group II: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG2-AR5)
 
-Intergovernmental Panel on Climate Change (IPCC). _[Climate Change 2014: Impacts, Adaptation and Vulnerability. Part A: Global and Sectoral Aspects](https://www.ipcc.ch/report/ar5/wg2/)._ Working Group II: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG2-AR5)
-
-Intergovernmental Panel on Climate Change (IPCC). _[Climate Change 2014: Mitigation of Climate Change](https://www.ipcc.ch/report/ar5/wg3/)._ Working Group III: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG3-AR5)
+Intergovernmental Panel on Climate Change (IPCC). [_Climate Change 2014: Mitigation of Climate Change_](https://www.ipcc.ch/report/ar5/wg3/)_._ Working Group III: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG3-AR5)
 
 Galea, Sandro. _Healthier: 50 Thoughts on the Foundations of Population Health_. Oxford University Press, New York. 2017
 
