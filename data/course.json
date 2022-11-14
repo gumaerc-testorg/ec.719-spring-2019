@@ -51,8 +51,10 @@
   "learning_resource_types": [
     "Written Assignments",
     "Projects with Examples",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "4aafb05a-7f9a-4964-b68c-2988ef37dabb",
+  "site_uid": "e9114a86-f96a-4185-9e3d-0b0eeb9f0001",
+  "short_id": "ec.719-spring-2019",
   "title": "Course Metadata"
 }
