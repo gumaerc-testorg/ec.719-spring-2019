@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: 'Website resources for D-Lab: Water, Climate Change, and Health.'
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Additional Resources
@@ -9,9 +10,7 @@ parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: Websites
 uid: 212d1d54-7346-7c55-2089-e4021e6203e0
 ---
-
-Climate & Climate Change
-------------------------
+## Climate & Climate Change
 
 [U.N. Framework Convention on Climate Change](https://unfccc.int/)
 
@@ -33,14 +32,13 @@ Climate & Climate Change
 
 [Climate Institute](http://climate.org/)
 
-[Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/pik-frontpage)
+[Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en)
 
 [The Intergovernmental Panel on Climate Change](https://www.ipcc.ch/)
 
 [NASA Global Climate Change](https://climate.nasa.gov/)
 
-Water & Ocean
--------------
+## Water & Ocean
 
 [National Snow and Ice Data Center](https://nsidc.org/)
 
@@ -54,18 +52,15 @@ Water & Ocean
 
 [OffGridBox](https://www.offgridbox.com/)
 
-Health
-------
+## Health
 
-[STRATUS Center for Medical Simulation](https://www.brighamandwomens.org/emergency-medicine/stratus-center-for-medical-simulation)
+[STRATUS Center for Medical Simulation](https://stratus.brighamandwomens.org/)
 
-Forestry & Agriculture
-----------------------
+## Forestry & Agriculture
 
 [U.S. Forest Service: National Lichens & Air Quality Database and Clearinghouse](http://gis.nacse.org/lichenair/)
 
-New England
------------
+## New England
 
 [Fossil Free MIT](http://www.fossilfreemit.org/)
 
