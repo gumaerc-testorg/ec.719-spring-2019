@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: 'Video and audio resources for D-Lab: Water, Climate Change, and Health.'
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Additional Resources
@@ -9,13 +10,11 @@ parent_uid: 4853e875-4de7-aade-3465-5cf11b481635
 title: Video & Audio
 uid: 6b30a942-d5c5-94d5-77b3-afcbf6d48e8e
 ---
-
-Climate & Climate Change
-------------------------
+## Climate & Climate Change
 
 WWF UK. "[Greta Thunberg Full Speech to UK Parliament | Climate Strikes.](https://www.youtube.com/watch?v=rYNM4rsnNFM)" April 24, 2019. YouTube.
 
-Dennis, Danfung and Eric Strauss. "[This is Climate Change: Melting Ice.](https://www.with.in/watch/this-is-climate-change-melting-ice)" With.in. 2018.
+Dennis, Danfung and Eric Strauss. "[This is Climate Change: Melting Ice.](https://www.youtube.com/watch?v=MwSLTGjPqG8)" With.in. 2018.
 
 Williams College. "[James Hansen at Williams College.](https://www.youtube.com/watch?v=JLfisi0VEbY)" March 17, 2017. YouTube. 
 
@@ -25,32 +24,31 @@ Williams College. "[James Hansen at Williams College.](https://www.youtube.com/w
 
 TedxTalks. "[TEDxCanberra - Will Steffen - The Anthropocene.](https://www.youtube.com/watch?v=ABZjlfhN0EQ)" November 14, 2010. 
 
-_An Inconvenient Truth: A Global Warning_. Paramount, 2006.
+*An Inconvenient Truth: A Global Warning*. Paramount, 2006.
 
-*   _An Inconvenient Truth_: former V.P. Al Gore's crusade to halt global warming's deadly progress by exposing the myths. Won Academy Awards for Best Documentary Feature and Best Song and became one of the highest grossing documentaries of all time. 2006
+- *An Inconvenient Truth*: former V.P. Al Gore's crusade to halt global warming's deadly progress by exposing the myths. Won Academy Awards for Best Documentary Feature and Best Song and became one of the highest grossing documentaries of all time. 2006
 
-_An Inconvenient Sequel: Truth to Power_. Paramount, 2017.
+*An Inconvenient Sequel: Truth to Power*. Paramount, 2017.
 
-*   _An Inconvenient Sequel_: the 2017 follow-up to _Inconvenient Truth_.
+- *An Inconvenient Sequel*: the 2017 follow-up to *Inconvenient Truth*.
 
-_[Chasing Ice](https://chasingice.com/)_. National Geographic, 2012.
+[*Chasing Ice*](https://chasingice.com/). National Geographic, 2012.
 
-_Before the Flood_. National Geographic, 2016.
+*Before the Flood*. National Geographic, 2016.
 
-_How to Let Go of the World and Love all the Things Climate Can’t Change_. HBO, 2016.
+*How to Let Go of the World and Love all the Things Climate Can’t Change*. HBO, 2016.
 
-*   A message of optimism from documentarian Josh Fox.
+- A message of optimism from documentarian Josh Fox.
 
-_Years of Living Dangerously_. Season 2 Episode 2 “Gathering Storm”, 2016.
+*Years of Living Dangerously*. Season 2 Episode 2 “Gathering Storm”, 2016.
 
-_Are We Changing Planet Earth?_ BBC, 2006.
+*Are We Changing Planet Earth?* BBC, 2006.
 
-_Can We Save Planet Earth?_ BBC, 2006.
+*Can We Save Planet Earth?* BBC, 2006.
 
-_Cool It_. Roadside Attractions, 2010.
+*Cool It*. Roadside Attractions, 2010.
 
-Water & Ocean
--------------
+## Water & Ocean
 
 NASA Goddard. "[Older Artic Sea Ice Disappearing.](https://youtu.be/Vj1G9gqhkYA)" October 28, 2016. YouTube.
 
@@ -60,24 +58,21 @@ Climate Science, Awareness and Solutions. "[Ice Melt, Sea Level Rise and Superst
 
 "[The Boat - Interactive Experience.](http://www.sbs.com.au/theboat/)" SBS. 
 
-_Cadillac Desert: Water and the Transformation of Nature._ PBS, 1997.
+*Cadillac Desert: Water and the Transformation of Nature.* PBS, 1997.
 
-_Watermark_. Entertainment One, 2013.
+*Watermark*. Entertainment One, 2013.
 
-Health
-------
+## Health
 
 Funkhouser, David. "[Jefferey Shaman: What Makes the Flu Spread?](https://blogs.ei.columbia.edu/2017/07/10/jeffrey-shaman-what-makes-the-flu-spread/)" State of the Planet. July 10, 2017.
 
 Delvisco, Jeffery and Dominic Smith. "[Climate Change: It's the Mother of All Health Issues.](https://www.statnews.com/2017/04/24/climate-change-human-civilization/)" STAT. April 24, 2017.
 
-Technology
-----------
+## Technology
 
 "[Using VR Simulations to Create Climate Empathy - Jennifer Ballen.](https://climate.mit.edu/videos/using-vr-simulations-create-climate-empathy-jennifer-ballen)" MIT ClimateX. July 17, 2017.
 
-Forestry & Agriculture
-----------------------
+## Forestry & Agriculture
 
 Patagonia. "[Regenerative Organic Certification (2018).](https://youtu.be/a0OZi44FLtM)" March 5, 2018. YouTube. 
 
@@ -85,11 +80,10 @@ TEDxTalks. "[The Other Inconvenient Truth | Jonathan Foley | TEDxTC.](https://ww
 
 "[Rebeldes: A Journey Through New Mexican Agriculture.](https://terrascope.mit.edu/radio/journey-through-new-mexican-agriculture/)" Terrascope. May 11, 2016.
 
-Other
------
+## Other
 
 TEDxTalks. "[TEDxWarwick - David MacKay - How the Laws of Physics Constrain Our Sustainable Energy Options.](https://www.youtube.com/watch?v=-5bVbfWuq-Q)" March 22, 2012. YouTube. 
 
 "[Paris to Pittsburgh.](https://www.paristopittsburgh.com/)" National Geographic. December 12, 2018. 
 
-_Merchants of Doubt_. Sony Pictures, 2014.
+*Merchants of Doubt*. Sony Pictures, 2014.
