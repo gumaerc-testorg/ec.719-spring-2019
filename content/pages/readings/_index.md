@@ -72,17 +72,17 @@ Water, Climate Change, and Health Intro
 
 \[M\] Chapters 8–9.
 
-Kolbert, Elizabeth. "[Can Carbon-Dioxide Removal Save the World?](https://www.newyorker.com/magazine/2017/11/20/can-carbon-dioxide-removal-save-the-world)" _The New Yorker_, November 13, 2017.
+Kolbert, Elizabeth. "{{% resource_link "ed5cb66e-7569-4368-bb6b-a04ed3de372a" "Can Carbon-Dioxide Removal Save the World?" %}}" _The New Yorker_, November 13, 2017.
 
 Review {{% resource_link 239732a6-7608-30c3-05dc-abfb991a111b "past projects" %}}.
 
 _Recommended:_ 
 
-Pacal, S. and R. Socolow. "[Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies](https://science.sciencemag.org/content/305/5686/968)." _Science_ 305, no. 5686 (2014), 968–972.
+Pacal, S. and R. Socolow. "{{% resource_link "04b90749-d5a8-421c-a42e-c8df6ebbc0ed" "Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies" %}}." _Science_ 305, no. 5686 (2014), 968–972.
 
-"[The Nine Planetary Boundaries](https://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html)." _Stockholm Resilience Center_. Stockholm University.
+"{{% resource_link "5f7a8b48-ab22-4c75-bc36-7a83d2c1e9a8" "The Nine Planetary Boundaries" %}}." _Stockholm Resilience Center_. Stockholm University.
 
-Strickland, Ashley. "[After 15 Years, the Mars Opportunity Rover's Mission Has Ended](https://www.cnn.com/2019/02/13/world/nasa-mars-opportunity-rover-trnd/index.html)." _CNN_, February 14, 2019. 
+Strickland, Ashley. "{{% resource_link "0d3e8798-bff1-4aae-a78b-f5aa8a670680" "After 15 Years, the Mars Opportunity Rover's Mission Has Ended" %}}." _CNN_, February 14, 2019. 
 
 
 {{< tdclose >}}
@@ -112,7 +112,7 @@ Emanuel, Kerry. "[Climate Science and Climate Risk: A Primer (PDF - 6.5MB)](ftp:
 
 Hawken, Paul. ed. _Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming._ Penguin Books, New York, 2017. ISBN: 9780143130444.
 
-Scan [Drawdown](https://www.drawdown.org/) for your favorite solution. Come prepared to share your pick(s) in class.
+Scan {{% resource_link "47def617-a234-4061-825a-3fba8c4fa85d" "Drawdown" %}} for your favorite solution. Come prepared to share your pick(s) in class.
 
 
 {{< tdclose >}}
@@ -138,9 +138,9 @@ Climate 2
 
 \[M\] Chapters 3 & 5.
 
-Primack, Richard and Amanda Gallinat. "[Spring Budburst in a Changing Climate](https://www.americanscientist.org/article/spring-budburst-in-a-changing-climate)." _American Scientist_ 104, no. 2 (2016): 102–109.
+Primack, Richard and Amanda Gallinat. "{{% resource_link "8018f031-1811-4b2b-9329-fa9e78653c4b" "Spring Budburst in a Changing Climate" %}}." _American Scientist_ 104, no. 2 (2016): 102–109.
 
-Albeck-Ripka, Livia and Brad Plumer. "[5 Plants and Animals Utterly Confused by Climate Change](https://www.nytimes.com/2018/04/04/climate/animals-seasons-mismatch.html)." _The New York Times_, April 4, 2018.
+Albeck-Ripka, Livia and Brad Plumer. "{{% resource_link "755baf28-3176-4c91-978f-f926a20f4941" "5 Plants and Animals Utterly Confused by Climate Change" %}}." _The New York Times_, April 4, 2018.
 
 
 {{< tdclose >}}
@@ -166,7 +166,7 @@ Climate 3
 
 \[M\] Chapter 4. 
 
-Schneider, Tapio, Colleen Kaul, and Kyle Pressel. "[Possible Climate Transitions from Breakup of Stratocumulus Decks Under Greenhouse Warming](https://www.nature.com/articles/s41561-019-0310-1)." _Nature Geoscience_12 (2019): 163–167.
+Schneider, Tapio, Colleen Kaul, and Kyle Pressel. "{{% resource_link "a6da8063-1493-4d3c-9eaa-690218837977" "Possible Climate Transitions from Breakup of Stratocumulus Decks Under Greenhouse Warming" %}}." _Nature Geoscience_12 (2019): 163–167.
 
 
 {{< tdclose >}}
@@ -190,11 +190,11 @@ Climate 4
 {{< tdopen >}}
 
 
-Cornwall, Warren. "[As Sea Levels Rise, Bangladeshi Islanders Must Decide Between Keeping the Water Out–or Letting it In](https://www.sciencemag.org/news/2018/03/sea-levels-rise-bangladeshi-islanders-must-decide-between-keeping-water-out-or-letting)." _Science_, March 1, 2018.
+Cornwall, Warren. "{{% resource_link "a43a1870-5c99-4c2a-add4-e1561e2a16b4" "As Sea Levels Rise, Bangladeshi Islanders Must Decide Between Keeping the Water Out–or Letting it In" %}}." _Science_, March 1, 2018.
 
-Glennon, Robert. "[The Unfolding Tragedy of Climate Change in Bangladesh](https://blogs.scientificamerican.com/guest-blog/the-unfolding-tragedy-of-climate-change-in-bangladesh/)." _Scientific American_, April 21, 2017.
+Glennon, Robert. "{{% resource_link "3e94c7ef-2289-4d6f-a208-b88f7227f86c" "The Unfolding Tragedy of Climate Change in Bangladesh" %}}." _Scientific American_, April 21, 2017.
 
-Chen, J. and V. Mueller. "[Coastal Climate Change, Soil Salinity and Human Migration in Bangladesh](https://www.nature.com/articles/s41558-018-0313-8)." _Nature Climate Change_ 8 (2018): 981–985.
+Chen, J. and V. Mueller. "{{% resource_link "cfa5ee4c-1bd4-473e-98b0-ae7e720a0787" "Coastal Climate Change, Soil Salinity and Human Migration in Bangladesh" %}}." _Nature Climate Change_ 8 (2018): 981–985.
 
 
 {{< tdclose >}}
@@ -218,15 +218,15 @@ Water & Climate Change
 {{< tdopen >}}
 
 
-Watts, Nick, Neild Adger, et al. "[Health and Climate Change: Policy Responses to Protect Public Health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60854-6/fulltext)." _The Lancet_ 386, no. 10006 (2015): 1861–1914.
+Watts, Nick, Neild Adger, et al. "{{% resource_link "e9759432-d797-4a76-9ab2-6b985a3cb900" "Health and Climate Change: Policy Responses to Protect Public Health" %}}." _The Lancet_ 386, no. 10006 (2015): 1861–1914.
 
 _Recommended:_
 
-Workman, James. "[Our House is On Fire. 16 Year-Old Greta Thunberg Wants Action](https://www.weforum.org/agenda/2019/01/our-house-is-on-fire-16-year-old-greta-thunberg-speaks-truth-to-power/)." _World Economic Forum_, January 25, 2019.
+Workman, James. "{{% resource_link "8eb8801d-7f4b-4e16-b6d2-ff45923c5f2e" "Our House is On Fire. 16 Year-Old Greta Thunberg Wants Action" %}}." _World Economic Forum_, January 25, 2019.
 
-TEDx Talks. "[School Strike for Climate—Save the World By Changing the Rules | Greta Thunberg | TEDxStockholm](https://www.youtube.com/watch?v=EAmmUIEsN9A)." December 12, 2018. YouTube.
+TEDx Talks. "{{% resource_link "6d56c103-c3a7-4876-8902-ed804a89c983" "School Strike for Climate—Save the World By Changing the Rules | Greta Thunberg | TEDxStockholm" %}}." December 12, 2018. YouTube.
 
-WWF UK. "[Greta Thunberg Full Speech to UK Parliament | Climate Strikes](https://www.youtube.com/watch?v=rYNM4rsnNFM)." April 24, 2019. YouTube.
+WWF UK. "{{% resource_link "18a1e098-eb08-4190-b70f-292e4b7f40a5" "Greta Thunberg Full Speech to UK Parliament | Climate Strikes" %}}." April 24, 2019. YouTube.
 
 
 {{< tdclose >}}
@@ -250,15 +250,15 @@ Game
 {{< tdopen >}}
 
 
-Meadows, Donella, Dennis Meadows, et al. _[The Limits to Growth](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf)_ [(PDF - 43.4MB)](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf). Universe Books, New York, 1974. ISBN: 9780876639016. 
+Meadows, Donella, Dennis Meadows, et al. _{{% resource_link "0c526979-9aa9-4bc9-826d-99a9b697cae7" "The Limits to Growth" %}}_ {{% resource_link "0c526979-9aa9-4bc9-826d-99a9b697cae7" "(PDF - 43.4MB)" %}}. Universe Books, New York, 1974. ISBN: 9780876639016. 
 
 _Recommended:_ 
 
-Meadows, Donella, Dennis Meadows, and Jorgen Randers. "[Beyond the Limits to Growth](http://donellameadows.org/archives/beyond-the-limits-to-growth/)." _The Donella Meadows Project_.
+Meadows, Donella, Dennis Meadows, and Jorgen Randers. "{{% resource_link "eaee3da0-ee57-424f-a433-2b4da0d3a746" "Beyond the Limits to Growth" %}}." _The Donella Meadows Project_.
 
 Meadows, Donella, Dennis Meadows, and Jorgen Randers. _Limits to Growth: The 30-Year Update._ Chelsea Green Publishing, 2004. ISBN: 9781931498586.
 
-[Climate Interactive Website.](https://www.climateinteractive.org/)
+{{% resource_link "97112b72-ae21-4cd8-9cf3-d80b4fb7383a" "Climate Interactive Website." %}}
 
 
 {{< tdclose >}}
@@ -286,15 +286,15 @@ Barrett, Meredith and Steven Osofsky. "One Health: Interdependence of People, Ot
 
 _Recommended:_
 
-Papadopoulos, Andrew and Sarah Wilmer. "[One Health: A Primer (PDF)](http://ncceh.ca/sites/default/files/One_Health_Primer_Nov_2011_0.pdf)." _National Collaborating Centre for Environmental Health_. 2011. 
+Papadopoulos, Andrew and Sarah Wilmer. "{{% resource_link "1690d0c4-b177-49e5-afda-db15e71e8b37" "One Health: A Primer (PDF)" %}}." _National Collaborating Centre for Environmental Health_. 2011. 
 
-Aguirre, Alonso and Gary Tabor. "[Global Factors Driving Emerging Infectious Diseases](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1428.052)." _Animal Biodiversity and Emerging Diseases Prediction and Preventio_n 1149 (2008), 1–3. 
+Aguirre, Alonso and Gary Tabor. "{{% resource_link "92b19837-969f-4c82-a04d-cda8ed4c3637" "Global Factors Driving Emerging Infectious Diseases" %}}." _Animal Biodiversity and Emerging Diseases Prediction and Preventio_n 1149 (2008), 1–3. 
 
-[One Health on Wikipedia](http://en.wikipedia.org/wiki/One_Health).
+{{% resource_link "608dd666-b3f4-44f4-b15e-a74529b7cf8c" "One Health on Wikipedia" %}}.
 
-Gebreyes, Wondwossen, Jean Dupouy-Camet, et al. "[The Global One Health Paradigm: Challenges and Opportunities for Tackling Infectious Diseases at the Human, Animal, and Environment Interface in Low-Resource Settings](https://doi.org/10.1371/journal.pntd.0003257)." _PLoS Neglected Tropical Diseases_ 8, no. 11 (2014).
+Gebreyes, Wondwossen, Jean Dupouy-Camet, et al. "{{% resource_link "f18178b3-da2d-47dd-8544-f9135692b63a" "The Global One Health Paradigm: Challenges and Opportunities for Tackling Infectious Diseases at the Human, Animal, and Environment Interface in Low-Resource Settings" %}}." _PLoS Neglected Tropical Diseases_ 8, no. 11 (2014).
 
-One Health Initiative Task Force. "[One Health: A New Professional Imperative](https://www.avma.org/KB/Resources/Reports/Pages/One-Health.aspx)." American Veternary Medical Association, 2008.
+One Health Initiative Task Force. "{{% resource_link "ceac3298-3be5-4b7a-a746-16ce66f31924" "One Health: A New Professional Imperative" %}}." American Veternary Medical Association, 2008.
 
 
 {{< tdclose >}}
@@ -342,13 +342,13 @@ Oceans
 {{< tdopen >}}
 
 
-Grossman, Elizabeth. "[Northwest Oyster Die-Offs Show Ocean Acidification Has Arrived](https://e360.yale.edu/features/northwest_oyster_die-offs_show_ocean_acidification_has_arrived)." Yale Environmnet 360, November 21, 2011.
+Grossman, Elizabeth. "{{% resource_link "eacd2868-fc3f-4a7c-be7f-4753e8ef2f60" "Northwest Oyster Die-Offs Show Ocean Acidification Has Arrived" %}}." Yale Environmnet 360, November 21, 2011.
 
 Houghton, John. _Global Warming: The Complete Briefing_. 5th Edition. Cambridge University Press, 2015. pp. 311–330. ISBN: 9781107463790. 
 
 _Recommended:_ 
 
-UN Environment. "[Emissions Gap Report 2018](https://www.unenvironment.org/resources/emissions-gap-report-2018)." United Nations Environment Progamme. November 27, 2018. 
+UN Environment. "{{% resource_link "f81d74a6-50d9-4b56-add4-53d092cd70fe" "Emissions Gap Report 2018" %}}." United Nations Environment Progamme. November 27, 2018. 
 
 
 {{< tdclose >}}
@@ -372,19 +372,19 @@ Climate & Sustainability
 {{< tdopen >}}
 
 
-Moomaw, William. "[To Curb Climate Change, We Need to Protect and Expand US Forests](https://theconversation.com/to-curb-climate-change-we-need-to-protect-and-expand-us-forests-76380)." _The Conversation_, May 8, 2017. 
+Moomaw, William. "{{% resource_link "7f832449-c9a6-48eb-ae17-23c405fc463b" "To Curb Climate Change, We Need to Protect and Expand US Forests" %}}." _The Conversation_, May 8, 2017. 
 
-"[Special Report: Global Warming OF 1.5 ºC—Summary for Policymakers](https://www.ipcc.ch/sr15/)." The Intergovemental Panel on Climate Change (IPCC). 
+"{{% resource_link "ab5dc4be-6022-49f4-8f91-ba95cf21933c" "Special Report: Global Warming OF 1.5 ºC—Summary for Policymakers" %}}." The Intergovemental Panel on Climate Change (IPCC). 
 
-"[The Full Action Plan, With a Letter from President L. Rafael Reif](https://climate.mit.edu/posts/report-full-action-plan-letter-president-l-rafael-reif)." MIT Climate Action, October 2015.
+"{{% resource_link "0aa4ee84-072f-423a-836f-7c22f8c96138" "The Full Action Plan, With a Letter from President L. Rafael Reif" %}}." MIT Climate Action, October 2015.
 
-[Massachusetts Climate Action webpage](https://www.mass.gov/topics/climate-action).
+{{% resource_link "eaf09a0b-b4a0-4551-8e54-39011f0d984a" "Massachusetts Climate Action webpage" %}}.
 
 _Recommended:_ 
 
-"[The Executive Summary of the Action Plan](https://climate.mit.edu/posts/report-executive-summary-action-plan)." MIT Climate Action, October 2015. 
+"{{% resource_link "245cc6c4-896b-4665-bb66-c9de0a44f0c5" "The Executive Summary of the Action Plan" %}}." MIT Climate Action, October 2015. 
 
-"[Update on the Plan for Action on Climate Change](http://web.mit.edu/climateaction/Update-PlanForActionClimateChange-April2016.pdf)." MIT Climate Action, April 2016.
+"{{% resource_link "5ca2dd74-ba9b-4ca0-bf97-9cc6a1c06c27" "Update on the Plan for Action on Climate Change" %}}." MIT Climate Action, April 2016.
 
 
 {{< tdclose >}}
@@ -410,7 +410,7 @@ SLR Case Study
 
 Goodell, Jeff. "Walled Cities." Chapter 7 in _The Water Will Come: Rising Seas, Sinking Cities, and the Remaking of the Civilized World_. Little, Brown and Company, 2017. ISBN: 9780316260244. 
 
-Goodell, Jeff. "[Rising Waters: Can a Massive Barrier Save Venice from Drowning?](https://e360.yale.edu/features/rising-waters-can-a-massive-sea-barrier-save-venice-from-drowning)" _Yale Environment 360_, December 5, 2017.
+Goodell, Jeff. "{{% resource_link "472d0128-cbcc-490b-81e1-ec725854e504" "Rising Waters: Can a Massive Barrier Save Venice from Drowning?" %}}" _Yale Environment 360_, December 5, 2017.
 
 
 {{< tdclose >}}
