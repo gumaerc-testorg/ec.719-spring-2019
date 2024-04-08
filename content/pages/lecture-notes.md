@@ -77,7 +77,7 @@ One Health
 
 {{% resource_link "6b77b056-c805-9d0b-5a5b-003c99be3d75" "One Health (PDF - 2.1MB)" %}}
 
-Guest Lecture: [Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University](http://vetprofiles.tufts.edu/faculty/janetrix-hellen-amuguni)
+Guest Lecture: {{% resource_link "d705ffe1-2128-4784-a4fd-2d9ea72e6fdd" "Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -103,7 +103,7 @@ Guest Lecture: Bill Moomaw, Emeritus Professor of International Environmental Po
 
 MIT’s Climate Action Plan and Massachusetts Climate Action (Lecture notes unavailable)
 
-Guest Lecture: [Curt Newton, MIT Climate Action Advisory Committee, 350 Massachusetts](https://climate.mit.edu/users/curt-newton)
+Guest Lecture: {{% resource_link "cb87605e-4b28-4e80-a8f0-eab844c3ae6c" "Curt Newton, MIT Climate Action Advisory Committee, 350 Massachusetts" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13

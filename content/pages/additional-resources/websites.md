@@ -12,64 +12,64 @@ uid: 212d1d54-7346-7c55-2089-e4021e6203e0
 ---
 ## Climate & Climate Change
 
-[U.N. Framework Convention on Climate Change](https://unfccc.int/)
+{{% resource_link "57141621-94b9-4935-8b81-081cb63e6526" "U.N. Framework Convention on Climate Change" %}}
 
-[Mission 2020](http://www.mission2020.global/)
+{{% resource_link "e4f870bf-8c3e-4e02-8496-ee4b585afdd8" "Mission 2020" %}}
 
-[Citizens' Climate Lobby](https://citizensclimatelobby.org/)
+{{% resource_link "9dfdb823-950f-4159-a66d-efc767961599" "Citizens' Climate Lobby" %}}
 
-[Climate Action Tracker](https://climateactiontracker.org/)
+{{% resource_link "0b3627dc-b4d5-4462-b100-eb4b518bceb3" "Climate Action Tracker" %}}
 
-[Climate Interactive](https://www.climateinteractive.org/)
+{{% resource_link "97112b72-ae21-4cd8-9cf3-d80b4fb7383a" "Climate Interactive" %}}
 
-[Carbon Tracker](https://www.carbontracker.org/)
+{{% resource_link "25dc86ba-2870-46e9-8196-bd4e15cea313" "Carbon Tracker" %}}
 
-[The Carbon Institute](https://carboninstitute.org/)
+{{% resource_link "0c257458-b3d3-4278-8a79-6bbe56921533" "The Carbon Institute" %}}
 
-[Yale Program on Climate Change Communication](https://climatecommunication.yale.edu/)
+{{% resource_link "1e7fc202-418d-499e-b81a-ec7022b518dd" "Yale Program on Climate Change Communication" %}}
 
-[SDG Knowledge Hub](http://sdg.iisd.org/)
+{{% resource_link "72814fed-c706-445e-a46b-9a61b5a9b4e2" "SDG Knowledge Hub" %}}
 
-[Climate Institute](http://climate.org/)
+{{% resource_link "36cc837c-903e-4b5a-9f98-e781ca00e184" "Climate Institute" %}}
 
-[Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en)
+{{% resource_link "9bfeeb60-917b-4474-81b6-2bc18966d5c2" "Potsdam Institute for Climate Impact Research" %}}
 
-[The Intergovernmental Panel on Climate Change](https://www.ipcc.ch/)
+{{% resource_link "5ea11122-e241-4138-a54f-dccc03acf4b7" "The Intergovernmental Panel on Climate Change" %}}
 
-[NASA Global Climate Change](https://climate.nasa.gov/)
+{{% resource_link "f7f0b5a5-0160-43a9-a16d-92b40c300586" "NASA Global Climate Change" %}}
 
 ## Water & Ocean
 
-[National Snow and Ice Data Center](https://nsidc.org/)
+{{% resource_link "f28f6ae9-bfee-46ed-bd86-74d10457cd38" "National Snow and Ice Data Center" %}}
 
-[Southeast Area Monitoring and Assessment Program (SEAMAP)](https://www.gsmfc.org/seamap.php)
+{{% resource_link "e472dec4-4376-48e7-8d60-eebd33a367b5" "Southeast Area Monitoring and Assessment Program (SEAMAP)" %}}
 
-[National Oceanic and Atmospheric Administration](https://www.noaa.gov/)
+{{% resource_link "550cac04-33be-4598-aaec-6cc29768b1f1" "National Oceanic and Atmospheric Administration" %}}
 
-[Securing Water for Food](https://securingwaterforfood.org/)
+{{% resource_link "66a5f9a2-d9ef-4175-b8e5-056040620f52" "Securing Water for Food" %}}
 
-[Water Conflict Chronology](http://www.worldwater.org/conflict/list/)
+{{% resource_link "b70a3b7a-c9ae-4fde-b86f-38f97a237715" "Water Conflict Chronology" %}}
 
-[OffGridBox](https://www.offgridbox.com/)
+{{% resource_link "dee1c878-1485-4e25-ab91-84d24c80fe01" "OffGridBox" %}}
 
 ## Health
 
-[STRATUS Center for Medical Simulation](https://stratus.brighamandwomens.org/)
+{{% resource_link "e8ac1699-f845-4442-96b0-6f9ca6c31d84" "STRATUS Center for Medical Simulation" %}}
 
 ## Forestry & Agriculture
 
-[U.S. Forest Service: National Lichens & Air Quality Database and Clearinghouse](http://gis.nacse.org/lichenair/)
+{{% resource_link "0d991759-e0eb-4005-a290-34b92c990a1a" "U.S. Forest Service: National Lichens & Air Quality Database and Clearinghouse" %}}
 
 ## New England
 
-[Fossil Free MIT](http://www.fossilfreemit.org/)
+{{% resource_link "c928367f-a990-4dd7-8ec0-704c0db86065" "Fossil Free MIT" %}}
 
-[MIT Climate CoLab](https://www.climatecolab.org/)
+{{% resource_link "54da3be4-7d4c-4eff-9817-d309b7bd933e" "MIT Climate CoLab" %}}
 
-[Massachusetts Climate Action](https://www.mass.gov/topics/climate-action)
+{{% resource_link "eaf09a0b-b4a0-4551-8e54-39011f0d984a" "Massachusetts Climate Action" %}}
 
-[Cambridge Climate Change Planning](https://www.cambridgema.gov/CDD/climateandenergy/climatechangeplanning)
+{{% resource_link "a1f88763-bd8b-4752-a08a-ed2a3a32fd7f" "Cambridge Climate Change Planning" %}}
 
-[MIT Office of Sustainability](http://sustainability.mit.edu/)
+{{% resource_link "e6f461fa-eaa9-4526-afed-e5e326620f78" "MIT Office of Sustainability" %}}
 
-[MIT Global Change](https://globalchange.mit.edu/)
+{{% resource_link "e8bc7d56-df4a-4da0-a60e-f563762af740" "MIT Global Change" %}}
