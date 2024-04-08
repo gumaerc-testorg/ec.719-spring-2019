@@ -6,11 +6,11 @@ parent_uid: 9cc6a4e6-78b7-bd33-de2e-724464018b95
 title: Additional Readings
 uid: f14ac857-fb37-82ec-0d52-77f42795ea1d
 ---
-Intergovernmental Panel on Climate Change (IPCC). [_Climate Change 2013: The Physical Science Basis_](https://www.ipcc.ch/report/ar5/wg1/). Working Group, I: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG1-AR5)
+Intergovernmental Panel on Climate Change (IPCC). {{% resource_link "c8aaee98-4a90-4fd5-90e9-2f61e1c22d89" "_Climate Change 2013: The Physical Science Basis_" %}}. Working Group, I: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG1-AR5)
 
-Intergovernmental Panel on Climate Change (IPCC). [_Climate Change 2014: Impacts, Adaptation and Vulnerability. Part A: Global and Sectoral Aspects_](https://www.ipcc.ch/report/ar5/wg2/)_._ Working Group II: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG2-AR5)
+Intergovernmental Panel on Climate Change (IPCC). {{% resource_link "857fab08-c121-4024-8d55-75f49c047919" "_Climate Change 2014: Impacts, Adaptation and Vulnerability. Part A: Global and Sectoral Aspects_" %}}_._ Working Group II: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG2-AR5)
 
-Intergovernmental Panel on Climate Change (IPCC). [_Climate Change 2014: Mitigation of Climate Change_](https://www.ipcc.ch/report/ar5/wg3/)_._ Working Group III: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG3-AR5)
+Intergovernmental Panel on Climate Change (IPCC). {{% resource_link "c208363b-27f2-45a2-a38d-0c7513f8085a" "_Climate Change 2014: Mitigation of Climate Change_" %}}_._ Working Group III: Fifth Assessment Report of the IPCC. Cambridge University Press, New York. 2014. (WG3-AR5)
 
 Galea, Sandro. _Healthier: 50 Thoughts on the Foundations of Population Health_. Oxford University Press, New York. 2017
 
@@ -38,7 +38,7 @@ Calvin, William H. _A Brain for All Seasons: Human Evolution and Abrupt Climate 
 
 Fagan, Brian. _Elixir, A History of Water and Humankind_. Bloomsbury Press, New York. 2011.
 
-Hansen, James. [Public Talk at MIT](https://news.mit.edu/2014/climate-scientist-james-hansen-visits-mit). April 15, 2014.
+Hansen, James. {{% resource_link "508ed273-cf65-466b-9f8b-9221f58e1ead" "Public Talk at MIT" %}}. April 15, 2014.
 
 Langmuir, C.H. and W. Broecker. _How to Build a Habitable Planet: The Story of Earth from the Big Bang to Humankind_. Revised and Expanded Edition. Princeton University Press, Princeton, NJ. 2012.
 

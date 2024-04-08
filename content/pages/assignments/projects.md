@@ -23,11 +23,11 @@ This page contains a sampling of some of the student projects completed during t
 
 {{< resource 74c8df24-eb13-d287-b429-e25a07e66ce4 >}}
 
-Devi Lockwood spent four years before coming to MIT recording audio stories about water and climate change. Her goal is to collect 1,001 total stories; currently, she has 850+ stories recorded from six of the seven continents. As a current student in the [MIT Graduate Program in Science Writing](http://sciwrite.mit.edu/), she took D-Lab: Water, Climate Change, and Health as an elective credit.
+Devi Lockwood spent four years before coming to MIT recording audio stories about water and climate change. Her goal is to collect 1,001 total stories; currently, she has 850+ stories recorded from six of the seven continents. As a current student in the {{% resource_link "3f49532d-2c76-4e38-bf2d-af121a75daae" "MIT Graduate Program in Science Writing" %}}, she took D-Lab: Water, Climate Change, and Health as an elective credit.
 
-Although this work began before she came to MIT, she says that only at MIT was she "able to launch” the project with a website, since she didn’t have the technical skills necessary to create the site. This is where her classmate, Jeff DelViscio, came in. A [Knight Science Journalism Fellow](http://ksj.mit.edu/) at MIT, he has extensive experience in digital storytelling. Along with digital media designer [Anna Chung](http://www.annawchung.com/) and Boston-based multimedia storyteller [Samia Bouzid](https://samiabouzid.com/), they launched their site on Earth Day 2019.
+Although this work began before she came to MIT, she says that only at MIT was she "able to launch” the project with a website, since she didn’t have the technical skills necessary to create the site. This is where her classmate, Jeff DelViscio, came in. A {{% resource_link "b10cd6ba-28d0-4b78-a034-7b5ad03b56bd" "Knight Science Journalism Fellow" %}} at MIT, he has extensive experience in digital storytelling. Along with digital media designer {{% resource_link "e01740c4-6b50-4606-9192-929083f93856" "Anna Chung" %}} and Boston-based multimedia storyteller {{% resource_link "c710ec82-143e-4e1e-9e39-c3edd6426013" "Samia Bouzid" %}}, they launched their site on Earth Day 2019.
 
-View the project at [1001 Stories](http://1001stories.org/).
+View the project at {{% resource_link "ca9b2ac7-b2f9-4fef-9d95-b7d565ebfdd5" "1001 Stories" %}}.
 
 Pop-Up Green Infrastructure  
 -----------------------------
@@ -43,6 +43,6 @@ Demonstration of the simulator presented at the D-Lab Showcase (left) and accomp
 Seabin in New England
 ---------------------
 
-Jeff Tedmori is a graduate student in the [MIT Sloan School of Management](https://mitsloan.mit.edu/). He has long been interested the problem of ocean pollution, so for his D-Lab project, he thought of the [Seabin Project](https://seabinproject.com/) with whom he had previous worked. Seabins are devices designed to remove microplastics and other microfibers from ocean water. Microplastics are fragments measuring less than 5 mm in diameter.
+Jeff Tedmori is a graduate student in the {{% resource_link "e95f47c4-e8b5-4eea-915e-d9db44a4d839" "MIT Sloan School of Management" %}}. He has long been interested the problem of ocean pollution, so for his D-Lab project, he thought of the {{% resource_link "056c874c-7f4b-4ee3-a24e-6cd70b3427ad" "Seabin Project" %}} with whom he had previous worked. Seabins are devices designed to remove microplastics and other microfibers from ocean water. Microplastics are fragments measuring less than 5 mm in diameter.
 
 He worked with an organization that educates youth about ocean plastics to build a curriculum around Seabins that builds an understanding of microplastics. Because microplastics are so small, it can be hard to raise awareness about them as you cannot see them easily. Although the organization has many topics organized around ocean health, this curriculum was specifically designed to help youth realize the impact of microplastics through the use of Seabins.

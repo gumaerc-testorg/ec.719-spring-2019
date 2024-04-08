@@ -15,9 +15,9 @@ Water & Oceans
 
 Documentary originally created as the Term Project in MIT "D-Lab Water and Climate Change" class. "Local Water" investigates the challenges to the oyster industry in Wellfleet, Massachusetts. Those major challenges include ocean acidification, caused by climate change, and coastal pollution, caused by development stresses.
 
-["In an Oyster Nutshell" (25:14 min).](https://youtu.be/opmKChXiYyA)
+{{% resource_link "76d65357-4b89-41ab-9d2a-1d91ececb86e" "\"In an Oyster Nutshell\" (25:14 min)." %}}
 
-["Local Water" short version (14:35 min) of "In an Oyster Nutshell."](https://youtu.be/4evJROh4wUk) 
+{{% resource_link "e787a017-7ae5-485f-a6e9-85a36f7076a7" "\"Local Water\" short version (14:35 min) of \"In an Oyster Nutshell.\"" %}} 
 
 {{% resource_link d239bccb-9e8f-4125-d1a7-d4d6e020ba29 "A Very-Low-Cost GNSS Precipitable Water Vapour Sensor (PDF)" %}}. The goal of the project is to develop a very-low-cost system for the measurement of precipitable water vapour from GNSS data utilizing inexpensive, off-the-shelf, commercially available components. Term project final report. 
 
