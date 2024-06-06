@@ -118,7 +118,7 @@ One Health
 
 One Health
 
-Guest Lecture: {{% resource_link "d705ffe1-2128-4784-a4fd-2d9ea72e6fdd" "Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University" %}}
+Guest Lecture: [Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University](http://vetprofiles.tufts.edu/faculty/janetrix-hellen-amuguni)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -150,7 +150,7 @@ MIT Climate Night Event (Optional)
 
 Field Trip #3: Hull Wind Energy (Optional)
 
-Field Trip #4: {{% resource_link "3e15023c-4048-4cb8-acfd-008a08c321e4" "City Nature Challenge" %}} (Optional)
+Field Trip #4: [City Nature Challenge](http://citynaturechallenge.org/) (Optional)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -164,7 +164,7 @@ Guest Lecture: Bill Moomaw, Emeritus Professor of International Environmental Po
 
 MIT’s Climate Action Plan and Massachusetts Climate Action
 
-Guest Lecture: {{% resource_link "cb87605e-4b28-4e80-a8f0-eab844c3ae6c" "Curt Newton, MIT Climate Action Advisory Committee, 350 Massachusetts" %}}
+Guest Lecture: [Curt Newton, MIT Climate Action Advisory Committee, 350 Massachusetts](https://climate.mit.edu/users/curt-newton)
 
 {{< tdclose >}}{{< tdopen >}}
  

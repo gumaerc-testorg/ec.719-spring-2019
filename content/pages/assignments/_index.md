@@ -18,7 +18,7 @@ There will be roughly one tutorial per week.
 Drawdown
 --------
 
-Browse the {{% resource_link "dbc07c00-85b0-4ad1-bcd4-b5df926dd84d" "Drawdown solutions" %}} and pick one that interests you. Come prepared to class to present that solution, either informally (sitting at your seat and just talking) or formally (preparing some slides for class presentation, and/or some related material you have dug up on that solution). Your presentation might take 5 minutes or so.
+Browse the [Drawdown solutions](http://www.drawdown.org) and pick one that interests you. Come prepared to class to present that solution, either informally (sitting at your seat and just talking) or formally (preparing some slides for class presentation, and/or some related material you have dug up on that solution). Your presentation might take 5 minutes or so.
 
 Dream Project Exercise
 ----------------------

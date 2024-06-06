@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/c93d86ded7a8827b3b0ee169a01da2c8_corn_cob-charcoal2.jpg
+file_size: 122999
 file_type: image/jpeg
 image_metadata:
   caption: ''
