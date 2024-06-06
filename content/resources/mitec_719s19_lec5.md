@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/fd0ec78d51355bc019bc18007098da9f_MITEC_719S19_lec5.pdf
+file_size: 1545099
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/2304bcb486db95f5135e42ba29f27560_less-than-10.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''
