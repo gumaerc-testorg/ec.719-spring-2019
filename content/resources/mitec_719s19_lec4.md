@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/da5b16a8ff17ff98b1f85455e084aa44_MITEC_719S19_lec4.pdf
+file: /ol-ocw-studio-app/courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/da5b16a8ff17ff98b1f85455e084aa44_MITEC_719S19_lec4.pdf
 file_size: 2464471
 file_type: application/pdf
 learning_resource_types:

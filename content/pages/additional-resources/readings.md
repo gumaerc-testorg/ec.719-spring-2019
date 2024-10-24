@@ -22,7 +22,7 @@ Howard, Guy, et al. "[Climate Change and Water and Sanitation: Likely Impacts an
 
 Steffen, Will, et al. "[Planetary Boundaries: Guiding Human Development on a Changing Planet.](https://science.sciencemag.org/content/347/6223/1259855)" *Science* 347, no. 6223 (2015).
 
-Whitmee, et al. "[Safeguarding Human Health in the Anthropocene Epoch: Report of The Rockefeller Foundation–Lancet Commission on Planetary Health.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60901-1/fulltext)" *The Lancet* 386, no. 10007 (2015): 1973–2028.
+Whitmee, et al. "[Safeguarding Human Health in the Anthropocene Epoch: Report of The Rockefeller Foundation–Lancet Commission on Planetary Health.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2815%2960901-1/fulltext)" *The Lancet* 386, no. 10007 (2015): 1973–2028.
 
 "[Greenovate Boston: 2014 Climate Action Plan Update.](https://www.boston.gov/departments/environment/climate-action-plan#climate-action-plan)" City of Boston. 
 
@@ -48,7 +48,7 @@ Economic Commission for Europe International Network of Basin Organizations. "[W
 
 ## Health
 
-Whitmee, et al. "[Safeguarding Human Health in the Anthropocene Epoch: Report of The Rockefeller Foundation–Lancet Commission on Planetary Health.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60901-1/fulltext)" *The Lancet* 386, no. 10007 (2015): 1973–2028.
+Whitmee, et al. "[Safeguarding Human Health in the Anthropocene Epoch: Report of The Rockefeller Foundation–Lancet Commission on Planetary Health.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2815%2960901-1/fulltext)" *The Lancet* 386, no. 10007 (2015): 1973–2028.
 
 ## Technology
 
@@ -72,7 +72,7 @@ Books by Elinor Ostrom:
 
 Smith, Pete, et al. "[Agriculture, Forestry and Other Land Use (AFOLU).](https://www.ipcc.ch/report/ar5/wg3/agriculture-forestry-and-other-land-use-afolu/)" IPCC.
 
-Lobdell, David and Sharon Gourdji. "[The Influence of Climate Change on Global Crop Productivity.](http://www.plantphysiol.org/content/160/4/1686)" *Plant Physiology* 160, no. 4 (2012): 1686–1697.
+Lobdell, David and Sharon Gourdji. "[The Influence of Climate Change on Global Crop Productivity.](https://academic.oup.com/plphys/article/160/4/1686/6109554)" *Plant Physiology* 160, no. 4 (2012): 1686–1697.
 
 Duffy, Philip, et al. "[Letter to the Senate on Carbon Neutrality of Forest Biomass.](https://www.caryinstitute.org/newsroom/letter-senate-carbon-neutrality-forest-biomass)" Cary Institute of Ecosystem Studies. February 26, 2016.
 
