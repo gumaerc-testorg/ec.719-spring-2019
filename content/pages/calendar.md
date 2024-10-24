@@ -164,7 +164,7 @@ Guest Lecture: Bill Moomaw, Emeritus Professor of International Environmental Po
 
 MIT’s Climate Action Plan and Massachusetts Climate Action
 
-Guest Lecture: [Curt Newton, MIT Climate Action Advisory Committee, 350 Massachusetts](https://climate.mit.edu/users/curt-newton)
+Guest Lecture: [Curt Newton, MIT Climate Action Advisory Committee, 350 Massachusetts](https://climate.mit.edu/users/climatex-team)
 
 {{< tdclose >}}{{< tdopen >}}
  

@@ -98,7 +98,7 @@ Chen, J. and V. Mueller. "[Coastal Climate Change, Soil Salinity and Human Migra
 Water & Climate Change
 {{< tdclose >}}{{< tdopen >}}
 
-Watts, Nick, Neild Adger, et al. "[Health and Climate Change: Policy Responses to Protect Public Health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60854-6/fulltext)." *The Lancet* 386, no. 10006 (2015): 1861–1914.
+Watts, Nick, Neild Adger, et al. "[Health and Climate Change: Policy Responses to Protect Public Health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2815%2960854-6/fulltext)." *The Lancet* 386, no. 10006 (2015): 1861–1914.
 
 *Recommended:*
 
@@ -136,7 +136,7 @@ Barrett, Meredith and Steven Osofsky. "One Health: Interdependence of People, Ot
 
 Papadopoulos, Andrew and Sarah Wilmer. "[One Health: A Primer (PDF)](http://ncceh.ca/sites/default/files/One_Health_Primer_Nov_2011_0.pdf)." *National Collaborating Centre for Environmental Health*. 2011. 
 
-Aguirre, Alonso and Gary Tabor. "[Global Factors Driving Emerging Infectious Diseases](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1428.052)." \_Animal Biodiversity and Emerging Diseases Prediction and Preventio\_n 1149 (2008), 1–3. 
+Aguirre, Alonso and Gary Tabor. "[Global Factors Driving Emerging Infectious Diseases](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1428.052)." *Animal Biodiversity and Emerging Diseases Prediction and Prevention* 1149 (2008), 1–3. 
 
 [One Health on Wikipedia](http://en.wikipedia.org/wiki/One_Health).
 
