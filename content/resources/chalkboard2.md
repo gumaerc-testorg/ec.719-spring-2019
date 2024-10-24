@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/4c6781595c8408ecfd8f9e1affc87319_chalkboard2.jpg
+file: /ol-ocw-studio-app/courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/4c6781595c8408ecfd8f9e1affc87319_chalkboard2.jpg
 file_size: 62357
 file_type: image/jpeg
 image_metadata:
