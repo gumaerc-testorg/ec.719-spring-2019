@@ -40,6 +40,6 @@ Demonstration of the simulator presented at the D-Lab Showcase (left) and accomp
 
 ## Seabin in New England
 
-Jeff Tedmori is a graduate student in the [MIT Sloan School of Management](https://mitsloan.mit.edu/). He has long been interested the problem of ocean pollution, so for his D-Lab project, he thought of the [Seabin Project](https://seabinproject.com/) with whom he had previous worked. Seabins are devices designed to remove microplastics and other microfibers from ocean water. Microplastics are fragments measuring less than 5 mm in diameter.
+Jeff Tedmori is a graduate student in the [MIT Sloan School of Management](https://mitsloan.mit.edu/). He has long been interested the problem of ocean pollution, so for his D-Lab project, he thought of the [Seabin Project](https://seabin.io/home) with whom he had previous worked. Seabins are devices designed to remove microplastics and other microfibers from ocean water. Microplastics are fragments measuring less than 5 mm in diameter.
 
 He worked with an organization that educates youth about ocean plastics to build a curriculum around Seabins that builds an understanding of microplastics. Because microplastics are so small, it can be hard to raise awareness about them as you cannot see them easily. Although the organization has many topics organized around ocean health, this curriculum was specifically designed to help youth realize the impact of microplastics through the use of Seabins.

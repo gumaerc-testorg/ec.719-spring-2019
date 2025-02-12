@@ -64,7 +64,7 @@ uid: 212d1d54-7346-7c55-2089-e4021e6203e0
 
 [Fossil Free MIT](http://www.fossilfreemit.org/)
 
-[MIT Climate CoLab](https://www.climatecolab.org/)
+[MIT Climate CoLab](https://climate.mit.edu/users/climate-colab)
 
 [Massachusetts Climate Action](https://www.mass.gov/topics/climate-action)
 

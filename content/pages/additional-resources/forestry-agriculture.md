@@ -20,7 +20,7 @@ US Senator for Maine Angus King. "[Collins, King, Klobuchar Biomass Amendment Pa
 
 "[Elinor Ostrom: Facts.](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/)" NobelPrize.org. 2009.
 
-Walljasper, Jay. "[Elinor Ostrom's 8 Principles for Managing a Commons.](http://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons#sthash.XLTkGSBg.dpbs)" On the Commons. October 2, 2011.
+Walljasper, Jay. "[Elinor Ostrom's 8 Principles for Managing a Commons.](https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/)" On the Commons. October 2, 2011.
 
 Books by Elinor Ostrom:
 

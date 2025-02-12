@@ -44,9 +44,9 @@ Howard, Guy, et al. "[Climate Change and Water and Sanitation: Likely Impacts an
 
 Steffen, Will, et al. "[Planetary Boundaries: Guiding Human Development on a Changing Planet.](https://science.sciencemag.org/content/347/6223/1259855)" *Science* 347, no. 6223 (2015).
 
-Whitmee, Sarah et al. "[Safeguarding Human Health in the Anthropocene Epoch: Report of The Rockefeller Foundation–Lancet Commission on Planetary Health.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60901-1/fulltext)" *The Lancet* 386, no. 10007 (2015): 1973–2028.
+Whitmee, Sarah et al. "[Safeguarding Human Health in the Anthropocene Epoch: Report of The Rockefeller Foundation–Lancet Commission on Planetary Health.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2815%2960901-1/fulltext)" *The Lancet* 386, no. 10007 (2015): 1973–2028.
 
-"[Greenovate Boston: 2014 Climate Action Plan Update.](https://www.boston.gov/departments/environment/climate-action-plan#climate-action-plan)" City of Boston. 
+"[Greenovate Boston: 2014 Climate Action Plan Update.](https://www.boston.gov/sites/default/files/embed/g/greenovate_boston_2014_cap_update.pdf)" City of Boston. 
 
 Lobdell, David and Sharon Gourdji. "[The Influence of Climate Change on Global Crop Productivity.](https://academic.oup.com/plphys/article/160/4/1686/6109554)" *Plant Physiology* 160, no. 4 (2012): 1686–1697.
 
