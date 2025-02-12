@@ -66,8 +66,8 @@ Climate Science, Awareness and Solutions. "[Ice Melt, Sea Level Rise, and Supers
 
 [National Oceanic and Atmospheric Administration](https://www.noaa.gov/)
 
-[Securing Water for Food](https://securingwaterforfood.org/)
+[Securing Water for Food](https://www.globalwaters.org/resources/assets/securing-water-food-final-report)
 
 [Water Conflict Chronology](http://www.worldwater.org/conflict/list/)
 
-[OffGridBox](https://www.offgridbox.com)
+[OffGridBox](https://www.offgridbox.com/)

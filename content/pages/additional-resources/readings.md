@@ -24,7 +24,7 @@ Steffen, Will, et al. "[Planetary Boundaries: Guiding Human Development on a Cha
 
 Whitmee, et al. "[Safeguarding Human Health in the Anthropocene Epoch: Report of The Rockefeller Foundation–Lancet Commission on Planetary Health.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2815%2960901-1/fulltext)" *The Lancet* 386, no. 10007 (2015): 1973–2028.
 
-"[Greenovate Boston: 2014 Climate Action Plan Update.](https://www.boston.gov/departments/environment/climate-action-plan#climate-action-plan)" City of Boston. 
+"[Greenovate Boston: 2014 Climate Action Plan Update.](https://www.boston.gov/sites/default/files/embed/g/greenovate_boston_2014_cap_update.pdf)" City of Boston. 
 
 Lobdell, David and Sharon Gourdji. "[The Influence of Climate Change on Global Crop Productivity.](https://academic.oup.com/plphys/article/160/4/1686/6109554)" *Plant Physiology* 160, no. 4 (2012): 1686–1697.
 
@@ -58,7 +58,7 @@ Wotzak, Rob. "[Best Energy-Smart Home 2017: Net-Positive in New England.](https:
 
 "[Elinor Ostrom: Facts.](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/)" NobelPrize.org. 2009.
 
-Walljasper, Jay. "[Elinor Ostrom's 8 Principles for Managing A Commmons.](http://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons#sthash.XLTkGSBg.dpbs)" On the Commons. October 2, 2011.
+Walljasper, Jay. "[Elinor Ostrom's 8 Principles for Managing A Commmons.](https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/)" On the Commons. October 2, 2011.
 
 Books by Elinor Ostrom:
 
@@ -86,4 +86,4 @@ Wotzak, Rob. "[Best Energy-Smart Home 2017: Net-Positive in New England.](https:
 
 Murcott, Susan. "[D-Lab and MIT IDEAS Global Challenge: Lessons in Mentoring, Transdisciplinarity, and Real World Engineering for Sustainable Development.](https://link.springer.com/chapter/10.1007/978-3-319-32933-8_19)" In *New Developments in Engineering Education for Sustainable Development*. Leal Filho W., Nesbit S. (eds). World Sustainability Series. Springer, Cham, 2016.
 
-"[Greenovate Boston: 2014 Climate Action Plan Update.](https://www.boston.gov/departments/environment/climate-action-plan#climate-action-plan)" City of Boston.
+"[Greenovate Boston: 2014 Climate Action Plan Update.](https://www.boston.gov/sites/default/files/embed/g/greenovate_boston_2014_cap_update.pdf)" City of Boston.
