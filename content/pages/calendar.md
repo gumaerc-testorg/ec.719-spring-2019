@@ -118,7 +118,7 @@ One Health
 
 One Health
 
-Guest Lecture: [Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University](http://vetprofiles.tufts.edu/faculty/janetrix-hellen-amuguni)
+Guest Lecture: [Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University](https://vet.tufts.edu/people/faculty/j-hellen-amuguni)
 
 {{< tdclose >}}{{< tdopen >}}
  
