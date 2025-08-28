@@ -12,8 +12,6 @@ uid: 52d1eed2-91cd-c1b5-e878-892dfd6b1e1d
 ---
 ## In the News
 
-Abel, David. "[Rising Seas Made the Latest Storm Surges More Potent, and Newly Discovered Records Help Prove It.](https://www3.bostonglobe.com/metro/2018/03/07/trove-documents-shows-historical-ferocity-recent-storms/keamav0oVsck3j78F0JOmO/story.html?arc404=true)" *Boston Globe*. March 8, 2018.
-
 Calma, Justine. "[Hurricane Maria Hit Women in Puerto Rico the Hardest. And They’re the Ones Building it Back.](https://grist.org/article/hurricane-maria-hit-women-in-puerto-rico-the-hardest-and-theyre-the-ones-building-it-back/)" Grist. March 8, 2018.
 
 Hardy, Devon. "[Hydroelectric Power and the Water-Energy Nexus.](http://iwa-network.org/hydroelectric-power-and-the-water-energy-nexus/)" IWA. December 22, 2017.
