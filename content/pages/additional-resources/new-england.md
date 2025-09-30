@@ -12,15 +12,15 @@ uid: 91304eae-999c-bb46-6078-2e2ba5c836e9
 ---
 ## In the News
 
-Saxe, Rebecca. "[Beyond the Classroom: Learning from Students.](https://web.mit.edu/fnl/volume/255/saxe.html)" *MIT Faculty Newsletter* 25, no. 5 (2013).  
+Saxe, Rebecca. "{{% resource_link "c16f27d7-a1ea-427e-97b4-7a319f845685" "Beyond the Classroom: Learning from Students." %}}" *MIT Faculty Newsletter* 25, no. 5 (2013).  
 
 ## Readings
 
-Wotzak, Rob. "[Best Energy-Smart Home 2017: Net-Positive in New England.](https://www.finehomebuilding.com/2017/04/26/best-energy-smart-home-2017-net-positive-new-england)" *Houses* 267 (2017).
+Wotzak, Rob. "{{% resource_link "90d14121-5fd3-4b91-b729-36025a6ff5f0" "Best Energy-Smart Home 2017: Net-Positive in New England." %}}" *Houses* 267 (2017).
 
-Murcott, Susan. "[D-Lab and MIT IDEAS Global Challenge: Lessons in Mentoring, Transdisciplinarity and Real World Engineering for Sustainable Development.](https://link.springer.com/chapter/10.1007/978-3-319-32933-8_19)" In *New Developments in Engineering Education for Sustainable Development*. Leal Filho W., Nesbit S. (eds). World Sustainability Series. Springer, Cham, 2016.
+Murcott, Susan. "{{% resource_link "3d6aad94-81ee-4150-aef3-e673dbc3278e" "D-Lab and MIT IDEAS Global Challenge: Lessons in Mentoring, Transdisciplinarity and Real World Engineering for Sustainable Development." %}}" In *New Developments in Engineering Education for Sustainable Development*. Leal Filho W., Nesbit S. (eds). World Sustainability Series. Springer, Cham, 2016.
 
-"[Greenovate Boston: 2014 Climate Action Plan Update.](https://www.boston.gov/sites/default/files/embed/g/greenovate_boston_2014_cap_update.pdf)" City of Boston. 
+"{{% resource_link "fc616415-e4bd-406a-8a4c-20660c5f8665" "Greenovate Boston: 2014 Climate Action Plan Update." %}}" City of Boston. 
 
 ## Student Projects
 
@@ -28,14 +28,14 @@ Example Dream Project Summary: {{% resource_link "4b70cfd2-4cab-b5ee-fac2-df4613
 
 ## Websites
 
-[Fossil Free MIT](https://www.fossilfreemit.org/)
+{{% resource_link "74f67ec9-9983-47c2-ace7-ee515a3140da" "Fossil Free MIT" %}}
 
-[MIT Climate CoLab](https://capd.mit.edu/resources/mit-climate-colab/)
+{{% resource_link "db8df93f-2800-47cb-8337-8db435df64fa" "MIT Climate CoLab" %}}
 
-[Massachusetts Climate Action](https://www.mass.gov/topics/climate-action)
+{{% resource_link "602e2089-74f1-4a36-8bce-a9fc115376ff" "Massachusetts Climate Action" %}}
 
-[Cambridge Climate Change Planning](https://www.cambridgema.gov/CDD/climateandenergy/climatechangeplanning)
+{{% resource_link "7ae61f3a-63dd-4683-a5da-964c235d2bae" "Cambridge Climate Change Planning" %}}
 
-[MIT Office of Sustainability](http://sustainability.mit.edu/)
+{{% resource_link "25096d7d-a9fe-4de2-a255-15b088e20881" "MIT Office of Sustainability" %}}
 
-[MIT Global Change](https://globalchange.mit.edu/)
+{{% resource_link "d1718afd-3886-4b8f-b643-8ca3e76307e1" "MIT Global Change" %}}
